@@ -5,11 +5,11 @@
 	<key>Author</key>
 	<string>Marc Hoyois</string>
 	<key>Builder Version</key>
-	<string>9537.85.10.17.1</string>
+	<string>10600.1.25</string>
 	<key>CFBundleDisplayName</key>
-	<string>ClickToPlugin</string>
+	<string>ClickToPlugin test</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.hoyois.safari.clicktoplugin</string>
+	<string>com.hoyois.safari.clicktoplugin2</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -40,7 +40,7 @@
 	<key>Description</key>
 	<string>Prevents plug-ins from loading automatically</string>
 	<key>DeveloperIdentifier</key>
-	<string>GY5KR7239Q</string>
+	<string>6GF844Y3GG</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
